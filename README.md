@@ -2,12 +2,9 @@
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=9999FF&height=180&section=header&text=yoona4320%20github&fontSize=65&fontColor=FFF0F5" />
 </div>
   
-  
 <!--
 **yoona4320/yoona4320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -17,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 
 <div align="center">
 <h3> :star: Platforms & Languages :star:</h3>
@@ -52,4 +48,9 @@ Here are some ideas to get you started:
 <div align="center">  
 	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />	
+</div>
+
+<br>
+<div align="center"> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoona4320&layout=compact">
 </div>
