@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-<h3> :black_nib: Platforms & Languages :black_nib:</h3>
+<h3> :black_nib: Tools :black_nib:</h3>
 </div>	
 
 <div align="center">  
@@ -49,6 +49,17 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />	
 </div>
+
+
+<div align="center">
+<h3> :books: Portfolio :books: </h3>
+</div>	
+
+<div align="center">
+	<a href="[포트폴리오.pptx](https://github.com/yoona4320/ProjectIU-Spring/files/10072989/_.pptx)">
+		<img src="https://img.shields.io/badge/Portfolio-ED163A?style=flat&logo=Portfolio&logoColor=white" />
+	</a>
+</div>	
 
 <br>
 <div align="center"> 
