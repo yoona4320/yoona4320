@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <div align="center">
 	<a href="https://github.com/yoona4320/ProjectIU-Spring/files/10072989/_.pptx">
 		<img src="https://img.shields.io/badge/Portfolio-ED163A?style=flat&logo=Portfolio&logoColor=white" />	
-	</a>
+	</a> (작성중)
 	
 </div>	
 
