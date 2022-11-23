@@ -56,9 +56,10 @@ Here are some ideas to get you started:
 </div>	
 
 <div align="center">
-	<a href="[포트폴리오.pptx](https://github.com/yoona4320/ProjectIU-Spring/files/10072989/_.pptx)">
-		<img src="https://img.shields.io/badge/Portfolio-ED163A?style=flat&logo=Portfolio&logoColor=white" />
+	<a href="https://github.com/yoona4320/ProjectIU-Spring/files/10072989/_.pptx">
+		<img src="https://img.shields.io/badge/Portfolio-ED163A?style=flat&logo=Portfolio&logoColor=white" />	
 	</a>
+	
 </div>	
 
 <br>
