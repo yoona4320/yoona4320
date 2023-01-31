@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </div>	
 
 <div align="center">
-	<a href="https://github.com/yoona4320/ProjectIU-Spring/files/10072989/_.pptx">
+	<a href="[최민경_포트폴리오.pdf](https://github.com/yoona4320/ProjectIU-SpringBoot/files/10546967/_.pdf)">
 		<img src="https://img.shields.io/badge/Portfolio-ED163A?style=flat&logo=Portfolio&logoColor=white" />	
 	</a> (작성중)
 	
