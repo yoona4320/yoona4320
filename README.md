@@ -51,12 +51,6 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align="center">
-<h3> :books: Portfolio :books: </h3>
-</div>	
-
-
-
 <br>
 <div align="center"> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoona4320&layout=compact">
